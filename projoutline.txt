@@ -1,0 +1,19 @@
+Location, start-date, end-date 
+
+[search]
+
+	[Scan results]
+
+	
+
+	Picture
+
+	Title
+
+	Subheading
+
+	Amenities
+
+	Rating
+
+	Price
